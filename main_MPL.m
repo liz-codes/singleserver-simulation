@@ -1,9 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Grundlagen der Stochastischen Simulation                                %
-% Seite 112, Aufgaben 5,6                                                 %
-% Michael Losert, Matrikelnummer 3227536                                  %
-% Peter Bauer, Matrikelnummer 3117410                                     %
-% Lisa Branz, Matrikelnummer 2546887                                      %
+% Simulation of a single-server scenario                                  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clearvars;      % Clear Variables from Memory
